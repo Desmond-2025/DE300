@@ -1,0 +1,13 @@
+pandas
+scikit-learn
+boto3
+apache-airflow
+numpy
+requests
+beautifulsoup4
+xgboost
+pyspark
+matplotlib
+apache-airflow
+apache-airflow-providers-amazon
+
